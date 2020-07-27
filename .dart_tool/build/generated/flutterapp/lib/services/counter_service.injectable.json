@@ -1,1 +1,0 @@
-[{"type":"CounterService","typeImpl":"CounterService","isAsync":false,"preResolve":false,"injectableType":2,"imports":["package:flutterapp/services/counter_service.dart"],"dependsOn":[],"environments":[],"dependencies":[],"constructorName":"","isAbstract":false}]
