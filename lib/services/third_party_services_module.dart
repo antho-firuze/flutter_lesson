@@ -8,4 +8,6 @@ abstract class ThirdPartyServicesModule {
   NavigationService get navigationService;
   @singleton
   DialogService get dialogService;
+  @singleton
+  SnackbarService get snackbarService;
 }
